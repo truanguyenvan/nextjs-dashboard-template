@@ -31,7 +31,7 @@ For improve this template, you can create a pull request or open an issue here [
 
 ```
 ├── components
-│   ├── accounts            # Accounts components
+│   ├── contents            # Accounts components
 │   ├── charts              # Charts components
 │   ├── breadcrumb          # component
 |   ├── home                # Home components
@@ -45,7 +45,7 @@ For improve this template, you can create a pull request or open an issue here [
 ├── pages                   # Documentation files 
 │   ├──  _app.tsx           # Entry point for the app
 │   ├──  index.tsx          # Home page
-│   ├── accounts.tsx        # Accounts Page
+│   ├── contents.tsx        # Accounts Page
 │   ├── more...             # Soon
 └──
 
