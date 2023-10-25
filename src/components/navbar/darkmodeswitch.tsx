@@ -8,7 +8,6 @@ export const DarkModeSwitch = () => {
   const { setTheme, theme } = useNextTheme();
   return (
     <Switch
-        isSelected={theme === "dark"}
         size="lg"
         color="secondary"
         onValueChange={(e) => setTheme(e ? "dark" : "light")}
